@@ -1,0 +1,48 @@
+body {
+    background-color: #191716;
+    font-family: 'Baloo Tammudu', cursive;
+}
+
+p {
+    font-size: 16px;
+    color: #fff;
+}
+
+.score {
+    background-color: #6c48D7;
+    color: #ffffff;
+    float: left;
+    padding: 20px;
+    width: 100%;
+}
+
+.header {
+    background-color: #6c48d7;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+.generated {
+    background-color: #ffab00;
+    color: #fff;
+    float: left;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 18px;
+}
+
+.center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.well {
+    margin-left: 30px;
+}
+
+.clearfix {
+    overflow: auto;
+}
